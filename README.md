@@ -11,7 +11,7 @@
 
 ## Description
 
-- Image and text slide animation on oppisite direction of Click
+- Image and text slide animation on oppisite direction of each other
 
 ## Screenshots
 
